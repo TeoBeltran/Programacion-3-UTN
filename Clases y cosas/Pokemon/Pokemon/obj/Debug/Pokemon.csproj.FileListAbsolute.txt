@@ -1,0 +1,10 @@
+C:\Users\Teo\Desktop\.Progra3\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+C:\Users\Teo\Desktop\.Progra3\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+C:\Users\Teo\Desktop\.Progra3\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+C:\Users\Teo\Desktop\.Progra3\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.AssemblyReference.cache
+C:\Users\Teo\Desktop\.Progra3\Pokemon\Pokemon\obj\Debug\Pokemon.Properties.Resources.resources
+C:\Users\Teo\Desktop\.Progra3\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.GenerateResource.cache
+C:\Users\Teo\Desktop\.Progra3\Pokemon\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\.Progra3\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+C:\Users\Teo\Desktop\.Progra3\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
+C:\Users\Teo\Desktop\.Progra3\Pokemon\Pokemon\obj\Debug\Pokemon.Form1.resources

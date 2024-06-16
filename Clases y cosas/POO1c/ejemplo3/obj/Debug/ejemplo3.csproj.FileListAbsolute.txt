@@ -1,0 +1,7 @@
+C:\Users\Teo\Desktop\Progra3\POO1c\ejemplo3\bin\Debug\ejemplo3.exe.config
+C:\Users\Teo\Desktop\Progra3\POO1c\ejemplo3\bin\Debug\ejemplo3.exe
+C:\Users\Teo\Desktop\Progra3\POO1c\ejemplo3\bin\Debug\ejemplo3.pdb
+C:\Users\Teo\Desktop\Progra3\POO1c\ejemplo3\obj\Debug\ejemplo3.csproj.AssemblyReference.cache
+C:\Users\Teo\Desktop\Progra3\POO1c\ejemplo3\obj\Debug\ejemplo3.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\Progra3\POO1c\ejemplo3\obj\Debug\ejemplo3.exe
+C:\Users\Teo\Desktop\Progra3\POO1c\ejemplo3\obj\Debug\ejemplo3.pdb

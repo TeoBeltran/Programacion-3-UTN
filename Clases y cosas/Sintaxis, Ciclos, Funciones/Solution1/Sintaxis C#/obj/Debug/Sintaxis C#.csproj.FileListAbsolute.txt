@@ -1,0 +1,7 @@
+C:\Users\Teo\Desktop\Progra3\Solution1\Sintaxis C#\bin\Debug\Sintaxis C#.exe.config
+C:\Users\Teo\Desktop\Progra3\Solution1\Sintaxis C#\bin\Debug\Sintaxis C#.exe
+C:\Users\Teo\Desktop\Progra3\Solution1\Sintaxis C#\bin\Debug\Sintaxis C#.pdb
+C:\Users\Teo\Desktop\Progra3\Solution1\Sintaxis C#\obj\Debug\Sintaxis C#.csproj.AssemblyReference.cache
+C:\Users\Teo\Desktop\Progra3\Solution1\Sintaxis C#\obj\Debug\Sintaxis C#.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\Progra3\Solution1\Sintaxis C#\obj\Debug\Sintaxis C#.exe
+C:\Users\Teo\Desktop\Progra3\Solution1\Sintaxis C#\obj\Debug\Sintaxis C#.pdb

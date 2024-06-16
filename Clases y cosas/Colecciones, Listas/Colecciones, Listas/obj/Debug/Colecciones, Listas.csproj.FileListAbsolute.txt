@@ -1,0 +1,7 @@
+C:\Users\Teo\Desktop\Progra3\Colecciones, Listas\Colecciones, Listas\bin\Debug\Colecciones, Listas.exe.config
+C:\Users\Teo\Desktop\Progra3\Colecciones, Listas\Colecciones, Listas\bin\Debug\Colecciones, Listas.exe
+C:\Users\Teo\Desktop\Progra3\Colecciones, Listas\Colecciones, Listas\bin\Debug\Colecciones, Listas.pdb
+C:\Users\Teo\Desktop\Progra3\Colecciones, Listas\Colecciones, Listas\obj\Debug\Colecciones, Listas.csproj.AssemblyReference.cache
+C:\Users\Teo\Desktop\Progra3\Colecciones, Listas\Colecciones, Listas\obj\Debug\Colecciones, Listas.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\Progra3\Colecciones, Listas\Colecciones, Listas\obj\Debug\Colecciones, Listas.exe
+C:\Users\Teo\Desktop\Progra3\Colecciones, Listas\Colecciones, Listas\obj\Debug\Colecciones, Listas.pdb
