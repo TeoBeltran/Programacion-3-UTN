@@ -1,0 +1,7 @@
+Pantalla inicio con productos----------------------
+Agregarlos al carrito de compra--------------------
+Ver carrito de compra------------------------------
+Opcion de filtrado
+Pantalla de detalle de producto--------------------
+Ver cantidad de productos en el carrito------------
+Carrito de compra (precio total y eliminar del carrito)----------
