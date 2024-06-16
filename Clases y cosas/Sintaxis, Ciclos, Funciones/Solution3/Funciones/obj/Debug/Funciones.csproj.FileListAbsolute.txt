@@ -1,7 +1,0 @@
-C:\Users\Teo\Desktop\Progra3\Solution3\Funciones\bin\Debug\Funciones.exe.config
-C:\Users\Teo\Desktop\Progra3\Solution3\Funciones\bin\Debug\Funciones.exe
-C:\Users\Teo\Desktop\Progra3\Solution3\Funciones\bin\Debug\Funciones.pdb
-C:\Users\Teo\Desktop\Progra3\Solution3\Funciones\obj\Debug\Funciones.csproj.AssemblyReference.cache
-C:\Users\Teo\Desktop\Progra3\Solution3\Funciones\obj\Debug\Funciones.csproj.CoreCompileInputs.cache
-C:\Users\Teo\Desktop\Progra3\Solution3\Funciones\obj\Debug\Funciones.exe
-C:\Users\Teo\Desktop\Progra3\Solution3\Funciones\obj\Debug\Funciones.pdb

@@ -1,7 +1,0 @@
-C:\Users\Teo\Desktop\.Progra3\tipoDateTime\tipoDateTime\bin\Debug\tipoDateTime.exe.config
-C:\Users\Teo\Desktop\.Progra3\tipoDateTime\tipoDateTime\bin\Debug\tipoDateTime.exe
-C:\Users\Teo\Desktop\.Progra3\tipoDateTime\tipoDateTime\bin\Debug\tipoDateTime.pdb
-C:\Users\Teo\Desktop\.Progra3\tipoDateTime\tipoDateTime\obj\Debug\tipoDateTime.csproj.AssemblyReference.cache
-C:\Users\Teo\Desktop\.Progra3\tipoDateTime\tipoDateTime\obj\Debug\tipoDateTime.csproj.CoreCompileInputs.cache
-C:\Users\Teo\Desktop\.Progra3\tipoDateTime\tipoDateTime\obj\Debug\tipoDateTime.exe
-C:\Users\Teo\Desktop\.Progra3\tipoDateTime\tipoDateTime\obj\Debug\tipoDateTime.pdb
