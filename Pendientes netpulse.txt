@@ -1,0 +1,44 @@
+CLIENTES
+Ver estado del cliente si es necesario o no, este estado activo es true cuando el cliente tiene realizada la instalacion, e inactivo cuando tiene desinstalacion pendiente o cliente nuevo.
+Un cliente puede arrepentirse de querer el servicio, poner un boton de cancelacion, pedir motivo o comentario y guardarlo en un historial, ademas de darle la baja al registro del cliente.
+Cuando se activa un cliente, agregar domicilio plan etc por partes separadas, meter popups
+Fijarse a que tecnico se agenda cuando se activa un servicio (instalacion pendiente)(aparezcan por orden de disponibilidad/cant trabajos)(chequear)
+
+SERVICIOS
+Poner un popup que pregunte si desea continuar la baja. Cuando se da de baja enviar desinstalacion pendiente.
+Agregar boton que agende mantenimiento al servicio.
+Cuando un servicio esta inactivo(chequear los estados), que se pinte en amarillo y a los 15 dias en rojo
+
+HISTORIALES EN GENERAL
+Tablas nuevas en la bd de los historiales en cuantoa  cambios de plan, informacion de clientes, etc...
+
+MANTENIMIENTOS
+Dgv de mantenimientos de urgencia/alta prioridad poner color
+Boton de mant realizados y pendientes, poner filtro por id de servicio. (historial de mantenimientos)
+
+PLANES
+agregar nombres
+
+PERFILES 
+Agregar usuarios el jefe otorga usuario(dni) y contraseña.
+Modificar contraseña
+
+
+ESTADOS para los SERVICIOS (nueva funcionalidad a agregar)
+Cada estado va pintado de un color
+Cliente pendiente a activacion
+Cliente pendiente a instalar
+Instalado (servicio activo)
+Inhabilitado (cuando cliente no abona) 
+Inactivo (pendiente a desinstalacion)
+Desinstalado (equipos devueltos)
+
+
+PESTAÑA DE SERVICIOS INACTIVOS/INHABILITADOS
+Mostrar servicios que no hayan abonado(ver complejidad y tiempos, no tenemos el sistema de pagos aun) y aquellos que estan ya inactivos sin realizar la desinstalacion (no devolvieron los equipos)
+Funcionalidad para cambiar los estados del servicio en particular
+
+
+PREGUNTAS
+
+Donde poner la funcion de activar/agregar un servicio, si en la parte de servicios o cliente
