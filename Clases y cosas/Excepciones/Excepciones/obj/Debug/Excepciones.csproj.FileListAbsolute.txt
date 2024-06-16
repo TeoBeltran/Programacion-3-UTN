@@ -1,0 +1,10 @@
+C:\Users\Teo\Desktop\.Progra3\Excepciones\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Users\Teo\Desktop\.Progra3\Excepciones\Excepciones\bin\Debug\Excepciones.exe
+C:\Users\Teo\Desktop\.Progra3\Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Teo\Desktop\.Progra3\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\Teo\Desktop\.Progra3\Excepciones\Excepciones\obj\Debug\Excepciones.Form1.resources
+C:\Users\Teo\Desktop\.Progra3\Excepciones\Excepciones\obj\Debug\Excepciones.Properties.Resources.resources
+C:\Users\Teo\Desktop\.Progra3\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.GenerateResource.cache
+C:\Users\Teo\Desktop\.Progra3\Excepciones\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\.Progra3\Excepciones\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\Teo\Desktop\.Progra3\Excepciones\Excepciones\obj\Debug\Excepciones.pdb

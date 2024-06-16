@@ -1,0 +1,11 @@
+C:\Users\Teo\Desktop\.Progra3\TP WinForm\TP WinForm\bin\Debug\TP WinForm.exe.config
+C:\Users\Teo\Desktop\.Progra3\TP WinForm\TP WinForm\bin\Debug\TP WinForm.exe
+C:\Users\Teo\Desktop\.Progra3\TP WinForm\TP WinForm\bin\Debug\TP WinForm.pdb
+C:\Users\Teo\Desktop\.Progra3\TP WinForm\TP WinForm\obj\Debug\TP WinForm.csproj.AssemblyReference.cache
+C:\Users\Teo\Desktop\.Progra3\TP WinForm\TP WinForm\obj\Debug\TP_WinForm.Form1.resources
+C:\Users\Teo\Desktop\.Progra3\TP WinForm\TP WinForm\obj\Debug\TP_WinForm.Properties.Resources.resources
+C:\Users\Teo\Desktop\.Progra3\TP WinForm\TP WinForm\obj\Debug\TP WinForm.csproj.GenerateResource.cache
+C:\Users\Teo\Desktop\.Progra3\TP WinForm\TP WinForm\obj\Debug\TP WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Teo\Desktop\.Progra3\TP WinForm\TP WinForm\obj\Debug\TP WinForm.exe
+C:\Users\Teo\Desktop\.Progra3\TP WinForm\TP WinForm\obj\Debug\TP WinForm.pdb
+C:\Users\Teo\Desktop\.Progra3\TP WinForm\TP WinForm\obj\Debug\TP_WinForm.frmArticulo.resources
