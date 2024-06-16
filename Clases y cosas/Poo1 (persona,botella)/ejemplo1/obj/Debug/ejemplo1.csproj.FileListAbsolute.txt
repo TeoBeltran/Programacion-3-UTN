@@ -1,7 +1,0 @@
-C:\Users\Teo\Desktop\Progra3\Poo1\ejemplo1\bin\Debug\ejemplo1.exe.config
-C:\Users\Teo\Desktop\Progra3\Poo1\ejemplo1\bin\Debug\ejemplo1.exe
-C:\Users\Teo\Desktop\Progra3\Poo1\ejemplo1\bin\Debug\ejemplo1.pdb
-C:\Users\Teo\Desktop\Progra3\Poo1\ejemplo1\obj\Debug\ejemplo1.csproj.AssemblyReference.cache
-C:\Users\Teo\Desktop\Progra3\Poo1\ejemplo1\obj\Debug\ejemplo1.csproj.CoreCompileInputs.cache
-C:\Users\Teo\Desktop\Progra3\Poo1\ejemplo1\obj\Debug\ejemplo1.exe
-C:\Users\Teo\Desktop\Progra3\Poo1\ejemplo1\obj\Debug\ejemplo1.pdb

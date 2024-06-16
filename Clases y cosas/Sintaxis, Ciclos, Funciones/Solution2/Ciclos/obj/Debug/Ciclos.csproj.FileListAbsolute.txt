@@ -1,7 +1,0 @@
-C:\Users\Teo\Desktop\Progra3\Solution2\Ciclos\bin\Debug\Ciclos.exe.config
-C:\Users\Teo\Desktop\Progra3\Solution2\Ciclos\bin\Debug\Ciclos.exe
-C:\Users\Teo\Desktop\Progra3\Solution2\Ciclos\bin\Debug\Ciclos.pdb
-C:\Users\Teo\Desktop\Progra3\Solution2\Ciclos\obj\Debug\Ciclos.csproj.AssemblyReference.cache
-C:\Users\Teo\Desktop\Progra3\Solution2\Ciclos\obj\Debug\Ciclos.csproj.CoreCompileInputs.cache
-C:\Users\Teo\Desktop\Progra3\Solution2\Ciclos\obj\Debug\Ciclos.exe
-C:\Users\Teo\Desktop\Progra3\Solution2\Ciclos\obj\Debug\Ciclos.pdb
